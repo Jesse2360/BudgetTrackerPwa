@@ -6,7 +6,7 @@ This is a budget tracker that allows you to track your expenses and your earning
 
 # Table of Content
 - [Technologies](#Technologies)
-- [LinktoDeployedSite](#LinktoDeployedSite)
+- [Link to Deployed Site](#LinktoDeployedSite)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
